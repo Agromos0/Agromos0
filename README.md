@@ -3,11 +3,13 @@
 
 - Agromos bot [Agromos sp bot](https://github.com/Agromos0/AgromosBotV2)
 
-- Mi whatsapp [http://wa.me/18178659441](http://wa.me/18178659441)
+- Mi whatsapp [<a href="http://wa.me/18178659441" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>](<a href="http://wa.me/18178659441" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>)
 
 - 💬 agredicientos **Gracias por instalar mi bot le puedes dar una estrilla**
 
 - Correo electrónico **toxicoyt084@gmail.com**
+
+- ⚡ te agradezco **Por visitar mi perfil**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
